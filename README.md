@@ -43,4 +43,4 @@ MIT License — use and adapt freely with attribution.
 
 ## Author
 
-Brave Titan — [Medium Articles](https://medium.com/@yourusername)
+Brave Titan — [Medium Articles](https://medium.com/@modeleke61)
